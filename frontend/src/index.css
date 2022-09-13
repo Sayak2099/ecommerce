@@ -15,10 +15,17 @@ body {
 main {
   flex:1;
 }
+.btn-primary {
+  background-color: #f0c040;
+  color: black;
+}
 .Products{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+.rating span{
+  color: gold
 }
 .Product{
   border: 2px chocolate solid;

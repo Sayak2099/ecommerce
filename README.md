@@ -1,1 +1,1 @@
-creating basic react app
+creating basic ecommerce website using react 
